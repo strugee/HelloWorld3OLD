@@ -7,6 +7,7 @@ TODO:
 1. Implement a number validator for inputs
 2. Implement logarithm function
 3. Implement trig functions
+4. Fix all the Mac bugs, duh
 */
 
 //#include <dos.h>
